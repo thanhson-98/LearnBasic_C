@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\VTA\\source\\Basic_C\\Program_1\\Program_1.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
